@@ -1,2 +1,2 @@
 # pre-departure-flight-delay-prediction
-Leakage-safe PySpark pipeline for predicting U.S. flight delays before departure using 2023–2025 BTS data.
+This project is an end-to-end Oracle data pipeline for competitive game data. It moves generated source records through staging, validation, rejection handling, normalized operational tables, and a dimensional reporting layer. The repository includes database design files, SQL implementation scripts, validation and reconciliation checks, ETL documentation, and Tableau dashboard outputs.
