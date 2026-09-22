@@ -1,0 +1,3 @@
+model,split,reg_param,elastic_net_param,threshold,accuracy,precision,recall,f1,specificity,true_positive,false_positive,true_negative,false_negative,row_count,roc_auc,predicted_class
+logistic_regression,test,0.0,0.0,0.2,0.640353485927799,0.33229923188276705,0.5784206704952831,0.42210287489887244,0.658548544126159,458875,922034,1778303,334449,3493661,0.6635655927929291,
+majority_class_baseline,test,,,,0.7729247342544111,0.0,0.0,0.0,1.0,0,0,2700337,793324,3493661,,0
